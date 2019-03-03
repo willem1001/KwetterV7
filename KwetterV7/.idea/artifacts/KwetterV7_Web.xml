@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="KwetterV7:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/KwetterV7_Web</output-path>
+    <root id="archive" name="KwetterV7_Web.war">
+      <element id="artifact" artifact-name="KwetterV7:Web exploded" />
+    </root>
+  </artifact>
+</component>
